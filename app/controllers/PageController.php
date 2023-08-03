@@ -30,7 +30,7 @@ class PageController
 
       // dd($EmailModel->totalEmails());
       if ($EmailModel->insert($_POST['email'])) {
-        redirect('http://localhost:8888/thank-you');
+        redirect('http://coral-app-9emqf.ondigitalocean.app/thank-you');
       } else {
         view("index", [
           "name" => "Joe",
