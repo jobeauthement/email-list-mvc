@@ -134,7 +134,7 @@ require_once("index.php");
                     <a href="#" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
                       Sign Up Page
                     </a>
-                    <a href="signin.html" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
+                    <a href="#" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
                       Sign In Page
                     </a>
                     <a href="#" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
