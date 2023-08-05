@@ -119,25 +119,25 @@ require_once("index.php");
                     <a href="#" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
                       About Page
                     </a>
-                    <a href="pricing.html" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
+                    <a href="#" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
                       Pricing Page
                     </a>
-                    <a href="contact.html" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
+                    <a href="#" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
                       Contact Page
                     </a>
-                    <a href="blog-grids.html" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
+                    <a href="#" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
                       Blog Grid Page
                     </a>
-                    <a href="blog-details.html" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
+                    <a href="#" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
                       Blog Details Page
                     </a>
-                    <a href="signup.html" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
+                    <a href="#" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
                       Sign Up Page
                     </a>
                     <a href="signin.html" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
                       Sign In Page
                     </a>
-                    <a href="404.html" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
+                    <a href="#" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
                       404 Page
                     </a>
                   </div>
@@ -146,10 +146,10 @@ require_once("index.php");
             </nav>
           </div>
           <div class="hidden justify-end pr-16 sm:flex lg:pr-0">
-            <a href="signin.html" class="loginBtn py-3 px-7 text-base font-medium text-white hover:opacity-70">
+            <a href="#" class="loginBtn py-3 px-7 text-base font-medium text-white hover:opacity-70">
               Sign In
             </a>
-            <a href="signup.html" class="signUpBtn rounded-lg bg-white bg-opacity-20 py-3 px-6 text-base font-medium text-white duration-300 ease-in-out hover:bg-opacity-100 hover:text-dark">
+            <a href="#" class="signUpBtn rounded-lg bg-white bg-opacity-20 py-3 px-6 text-base font-medium text-white duration-300 ease-in-out hover:bg-opacity-100 hover:text-dark">
               Sign Up
             </a>
           </div>
