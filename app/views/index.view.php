@@ -116,7 +116,7 @@ require_once("index.php");
                     Pages
                   </a>
                   <div class="submenu relative top-full left-0 hidden w-[250px] rounded-sm bg-white p-4 transition-[top] duration-300 group-hover:opacity-100 lg:invisible lg:absolute lg:top-[110%] lg:block lg:opacity-0 lg:shadow-lg lg:group-hover:visible lg:group-hover:top-full">
-                    <a href="about.html" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
+                    <a href="#" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
                       About Page
                     </a>
                     <a href="pricing.html" class="block rounded py-[10px] px-4 text-sm text-body-color hover:text-primary">
